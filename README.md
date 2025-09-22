@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Micha!
-#### I'm a young electrical engineer!
+#### I'm an electrical/software engineer!
 ![Art of my cats](https://github.com/MichaByte/MichaByte/raw/main/cat_picture.png)
 
 *I commissioned this beautiful art of my cats from [@TheColorfulKayak](https://www.instagram.com/TheColorfulKayak/)*
@@ -13,7 +13,7 @@ Skills: KiCad // TS / Svelte / SvelteKit // TailwindCSS // Python
 - 👯 I’m looking to collaborate on just about anything! 
 - 💬 Ask me about 3D printing! 
 - 📫 How to reach me: Just drop me an email (micha [at] 2231 dot tech) 
-- 😄 Pronouns: they/them
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I LOVE to build robots! 
 
 ![](https://dcbadge.limes.pink/api/shield/525432105224765494?logoColor=presence&theme=blurple)
