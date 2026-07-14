@@ -18,3 +18,6 @@ Skills: KiCad // TypeScript // Svelte // SvelteKit // TailwindCSS // Python
 ![](https://dcbadge.limes.pink/api/shield/525432105224765494?logoColor=presence&theme=blurple)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/miameows)  
+
+PGP Fingerprint:
+76CDF210584F7A3F2B361CFDABF0DDE643A9CAFA
